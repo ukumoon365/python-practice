@@ -14,7 +14,7 @@ def sum_three(a: int, b: int , c: int) -> int:
         a, b, c (int): 3개의 정수
 
     Returns:
-        int : 세 수의 합 
+        int: 세 수의 합 
     """
     
     return a + b + c
